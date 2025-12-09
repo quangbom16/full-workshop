@@ -9,8 +9,7 @@ pre: " <b> 2. </b> "
 # Internship Report
 ## Multi-Platform File Analysis System - Clone VirusTotal
 ### Student Information:
-&emsp; **Member name:** 
-- Phạm Quang Nhật - SE194817
+&emsp; **Full Name:** Phạm Quang Nhật - SE194817
 
 &emsp; **University:** Ho Chi Minh City University of Technology and Education
 
@@ -18,7 +17,7 @@ pre: " <b> 2. </b> "
 
 &emsp; **Class:** AWS082025
 
-&emsp; **Internship Company:** Amazon Web Services Vietnam Co., Ltd.
+&emsp; **Internship Company :** Amazon Web Services Vietnam Co., Ltd.
 
 &emsp; **Internship Position:** FCJ Cloud Intern
 

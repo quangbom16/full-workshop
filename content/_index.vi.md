@@ -9,8 +9,7 @@ pre: " <b> 2. </b> "
 # Báo cáo thực tập
 ## Dự án Hệ thống Phân tích Tệp Đa Nền tảng - Clone VirusTotal
 ### Thông tin sinh viên:
-&emsp; **Tên thành viên:** 
-- Phạm Quang Nhật - SE194817
+&emsp;  **Họ & Tên:** Phạm Quang Nhật - SE194817
 
 &emsp; **Trường:** Trường Đại học FPT - TPHCM
 
