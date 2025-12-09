@@ -1,0 +1,33 @@
+5-Workshop/
+├── 5.1-Workshop-overview
+│   ├── _index.md
+│   └── _index.vi.md
+├── 5.2-Prerequisite
+│   ├── _index.md
+│   └── _index.vi.md
+├── 5.3-Infrastructure-setup
+│   ├── 5.3.1-configure-variables
+│   │   ├── _index.md
+│   │   └── _index.vi.md
+│   ├── 5.3.2-initialize-terraform
+│   │   ├── _index.md
+│   │   └── _index.vi.md
+│   ├── 5.3.3-deploy-infrastructure
+│   │   ├── _index.md
+│   │   └── _index.vi.md
+│   ├── _index.md
+│   └── _index.vi.md
+├── 5.4-Verification
+│   ├── 5.4.1-check-resources
+│   │   ├── _index.md
+│   │   └── _index.vi.md
+│   ├── 5.4.2-test-application
+│   │   ├── _index.md
+│   │   └── _index.vi.md
+│   ├── _index.md
+│   └── _index.vi.md
+├── 5.5-Cleanup
+│   ├── _index.md
+│   └── _index.vi.md
+├── _index.md
+└── _index.vi.md
