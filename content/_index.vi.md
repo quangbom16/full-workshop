@@ -10,9 +10,7 @@ pre: " <b> 2. </b> "
 ## Dự án Hệ thống Phân tích Tệp Đa Nền tảng - Clone VirusTotal
 ### Thông tin sinh viên:
 &emsp; **Tên thành viên:** 
-- Lưu Tứ Khoa - SE194072 (Nhóm trưởng)
 - Phạm Quang Nhật - SE194817
-- Phạm Quốc Huy Phúc - SE192599
 
 &emsp; **Trường:** Trường Đại học FPT - TPHCM
 
@@ -24,7 +22,7 @@ pre: " <b> 2. </b> "
 
 &emsp; **Vị trí thực tập:** FCJ Cloud Intern
 
-&emsp; **Thời gian thực tập:** Từ ngày 12/08/2025 đến ngày 12/11/2025
+&emsp; **Thời gian thực tập:** Từ ngày 08/09/2025 đến ngày 09/12/2025
 
 ![Your profile picture](/images/avatar.png)
 

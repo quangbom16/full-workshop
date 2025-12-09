@@ -8,11 +8,9 @@ pre: " <b> 2. </b> "
 
 # Internship Report
 ## Multi-Platform File Analysis System - Clone VirusTotal
-### Group Information:
+### Student Information:
 &emsp; **Member name:** 
-- Lưu Tứ Khoa - SE194072 (Leader)
 - Phạm Quang Nhật - SE194817
-- Phạm Quốc Huy Phúc - SE192599
 
 &emsp; **University:** Ho Chi Minh City University of Technology and Education
 
@@ -24,7 +22,7 @@ pre: " <b> 2. </b> "
 
 &emsp; **Internship Position:** FCJ Cloud Intern
 
-&emsp; **Internship Duration:** From 12/08/2025 to 12/11/2025
+&emsp; **Internship Duration:** From 08/09/2025 to 09/12/2025
 
 ![Your profile picture](/images/avatar.png) 
 
